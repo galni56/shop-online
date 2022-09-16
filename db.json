@@ -1,9 +1,39 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "product": [
+    {
+    "Name": "Test test",
+    "Company":"Test2",
+    "Store":"Test3",
+    "DeliveryDate": 1,
+    "CreatedDate": 2
+    },
+    {
+      "Name": "Test test2",
+      "Company":"Test2",
+      "Store":"Test3",
+      "DeliveryDate": 1,
+      "CreatedDate": 3
+    },
+    {
+      "Name": "Test test3",
+      "Company":"Test2",
+      "Store":"Test3",
+      "DeliveryDate": 3,
+      "CreatedDate": 2
+    },
+    {
+      "Name": "Test test4",
+      "Company":"Test2",
+      "Store":"Test3",
+      "DeliveryDate": 2,
+      "CreatedDate": 2
+    },
+    {
+      "Name": "Test test5",
+      "Company":"Test2",
+      "Store":"Test3",
+      "DeliveryDate": 3,
+      "CreatedDate": 2
+    }
+  ] 
 }

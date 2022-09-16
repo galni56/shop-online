@@ -15,3 +15,9 @@ export default ({
     }
 })
 </script>
+
+<style scoped>
+    .s-main-wrapper {
+        height: 100vh;
+    }
+</style>>
